@@ -1,0 +1,20 @@
+Prompts used for Chat GPT:
+
+Create a 2D Graphics Editor in C using graphics.h.
+Add options to draw lines, rectangles, circles and ellipses.
+Generate a menu-driven graphics editor program in C.
+Fix compilation errors in the graphics editor code.
+Show sample output for the graphics editor project.
+
+Terminal commands used:
+
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <github-repository-url>
+git push -u origin main
+git add .
+git commit -m "Added prompt.txt"
+git push origin main
